@@ -1,0 +1,11 @@
+10
+32E:\project\JS\Pikachu\.gitignore132757619376238901 0
+26E:\project\JS\Pikachu\dist132757631935403120 1
+49E:\project\JS\Pikachu\dist\index.3c55bd89.css.map132757631935378004 0
+29E:\project\JS\Pikachu\main.js132748477949283710 0
+32E:\project\JS\Pikachu\index.html132749381512585809 0
+31E:\project\JS\Pikachu\style.css132749501789032348 0
+45E:\project\JS\Pikachu\dist\index.3c55bd89.css132757631935052764 0
+48E:\project\JS\Pikachu\dist\index.55fe916c.js.map132757631935393010 0
+44E:\project\JS\Pikachu\dist\index.55fe916c.js132757631935092797 0
+37E:\project\JS\Pikachu\dist\index.html132757631935018017 0
